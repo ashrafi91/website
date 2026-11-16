@@ -1,0 +1,95 @@
+# Courses, shown on the Teaching page in the order listed.
+# Each entry needs: course, title
+# Optional: term, role, url, description
+# Source: University of Calgary profile, CV, and the Courses page of the Google Site
+# (Stamford terms are the first to last semester listed there for each course).
+
+# --- University of Calgary ---
+- course: CPSC 471
+  title: Database Management Systems
+  term: Winter 2026
+  role: Graduate Assistant (Teaching), University of Calgary
+
+- course: CPSC 217
+  title: Introduction to Computer Science for Multidisciplinary Studies I
+  term: Fall 2025
+  role: Graduate Assistant (Teaching), University of Calgary
+
+# --- Training ---
+- course: Software Architecture and Design (SDA)
+  term: 2022-2024
+  role: Trainer, SEIP-BASIS Project (Tranche-3), Finance Division, Ministry of Finance, Bangladesh
+  description: Content creator, facilitator and assessor. Contributed to the development of the competency standard for SDA.
+
+# --- Stamford University Bangladesh (Lecturer 2015-2018, Senior Lecturer 2018-2025) ---
+- course: CSI 411 / CSI 412
+  title: Compiler (theory and sessional)
+  term: Fall 2016 - Fall 2019
+  role: Stamford University Bangladesh
+
+- course: CSI 421 / CSI 422
+  title: Artificial Intelligence and Expert Systems (theory and sessional)
+  term: Fall 2015 - Spring 2016
+  role: Stamford University Bangladesh
+
+- course: CSI 123 / CSI 124
+  title: Structured Programming Language (theory and sessional)
+  term: Summer 2016 - Fall 2019
+  role: Stamford University Bangladesh
+
+- course: CSI 217 / CSI 218
+  title: Object Oriented Programming (theory and sessional)
+  term: Summer 2016 - Fall 2018
+  role: Stamford University Bangladesh
+
+- course: CSI 311 / CSI 312
+  title: Visual and Internet Programming (theory and sessional)
+  term: Fall 2018
+  role: Stamford University Bangladesh
+
+- course: CSI 231 / CSI 232
+  title: Algorithms (theory and sessional)
+  term: Fall 2016 - Summer 2017
+  role: Stamford University Bangladesh
+
+- course: CSE 333 / CSE 334
+  title: Computer Peripherals and Interfacing (theory and sessional)
+  term: Fall 2017 - Fall 2019
+  role: Stamford University Bangladesh
+
+- course: CSI 381 / CSI 382
+  title: Data Mining and Knowledge Discovery (theory and sessional)
+  role: Stamford University Bangladesh
+
+- course: CSI 115 / CSI 116
+  title: Computer Programming Concept (theory and sessional)
+  term: Spring 2017 - Spring 2018
+  role: Stamford University Bangladesh
+
+- course: CSI 324
+  title: System Analysis and Design Sessional
+  term: Summer 2018 - Fall 2018
+  role: Stamford University Bangladesh
+
+- course: CSE 101
+  title: Fundamentals of Computer Science
+  term: Fall 2015, Spring 2019, Summer 2019
+  role: Stamford University Bangladesh
+
+- course: CSE 415
+  title: Computer Networks
+  term: Spring 2016
+  role: Stamford University Bangladesh
+
+- course: CSE 433
+  title: Digital Signal Processing
+  term: Spring 2019
+  role: Stamford University Bangladesh
+
+- course: MATH 135
+  title: Discrete Mathematics
+  term: Summer 2018
+  role: Stamford University Bangladesh
+
+- course: Data Communications
+  role: Stamford University Bangladesh

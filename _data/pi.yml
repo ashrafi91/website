@@ -1,0 +1,13 @@
+# Optional: detailed education and bio for the About page.
+# Basic info (name, photo, links) now lives in _config.yml.
+# Delete this file if you only need the basics.
+# Source: CV (Resume_Adnan-6.pdf)
+
+- education:
+    - "(2025-present) M.Sc. Computer Science, University of Calgary"
+    - "(2025) M.Sc. Computer Science and Engineering, Islamic University of Technology"
+    - "(2014) B.Sc. Computer Science and Engineering, Islamic University of Technology"
+  educationshort:
+    - "(2025-present) M.Sc. CS, University of Calgary"
+    - "(2025) M.Sc. CSE, IUT"
+    - "(2014) B.Sc. CSE, IUT"

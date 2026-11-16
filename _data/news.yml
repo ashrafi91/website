@@ -1,0 +1,21 @@
+# News items shown on the home page sidebar.
+# The 3 most recent are shown; all appear on /allnews.
+# Each entry needs: date, headline
+# Source: CV and University of Calgary profile. Dates are as precise as those sources allow.
+- date: 2026
+  headline: "MMAC-Net, a multi-modal deep learning approach for ICD-9 coding of rare disease admissions, published in Applied Sciences (MDPI)"
+
+- date: 2026
+  headline: "Awarded the Alberta Graduate Excellence Scholarship (AGES), International, at the University of Calgary"
+
+- date: 2025
+  headline: "Paper on graph convolutional networks for autism spectrum disorder classification published at IVCNZ 2025"
+
+- date: September, 2025
+  headline: "Started an M.Sc. in Computer Science at the University of Calgary (DANSA Lab), with an International Graduate Tuition Award"
+
+- date: August, 2025
+  headline: "Completed M.Sc. in Computer Science and Engineering at the Islamic University of Technology"
+
+- date: 2025
+  headline: "BFERNet, a few-shot facial expression recognition model for babies, published in IEEE Access"

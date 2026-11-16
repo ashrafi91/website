@@ -1,0 +1,12 @@
+# Awards and honors, shown on the About page.
+# Each entry needs: name
+# Source: CV and University of Calgary profile.
+# Note: the About page turns every "-" in a name into an en dash, so avoid hyphens except in year ranges.
+- name: "Alberta Graduate Excellence Scholarship (AGES), International, University of Calgary (2026)"
+- name: "International Graduate Tuition Award, University of Calgary (2025-2027)"
+- name: "Full Merit Scholarship (four years), Islamic University of Technology (2011-2014)"
+- name: "Organizer, 6th IUT National ICT Fest (2014)"
+- name: "Member of the Organizing Committee, 5th AB Bank IUT National ICT Fest (2013)"
+- name: "Chess Captain, Islamic University of Technology (2014)"
+- name: "Table Tennis Semifinalist, Islamic University of Technology (2013)"
+- name: "President of the Chess Club, Notre Dame College (2009-2010)"
